@@ -1,6 +1,6 @@
 # advancedJavaScript
 Starter kit for my JS Courses
-<a linkten kursa katılabilirsiniz href="https://www.kodlama.io/p/yazilim-gelistirici-yetistirme-kampi-javascript"> <img width=18 src="https://imgyukle.com/f/2021/10/19/kyYHpq.png"> kodlama.io </a>
+<a href="https://www.kodlama.io/p/yazilim-gelistirici-yetistirme-kampi-javascript"> <img width=18 src="https://imgyukle.com/f/2021/10/19/kyYOJ0.png"> kodlama.io </a>
 
 
 https://www.kodlama.io/p/yazilim-gelistirici-yetistirme-kampi-javascript
