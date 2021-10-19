@@ -10,9 +10,6 @@ for (let i = 0; i < konutKredileri.length; i++) {
 console.log("</ul>")
 
 
-
-
-// test
 // let, const : let degeri degistirilebilir : const degeri degistirilemez
 // let konutKredisi = ["Array / diziler : dizileri listeler metinsel ve ya sayisal"]
 //camelCasing ve ya PascalCasing 
